@@ -69,7 +69,7 @@
 	"hideEditButton": false,
 	"enableCategories": true,
 	"currentHatIndex": 3,
-	"hatFlipped": false,
+	"hatFlipped": true,
 	"enableChristmas": true,
 	"beian": {
 		"text": "",
